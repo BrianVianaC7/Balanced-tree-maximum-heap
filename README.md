@@ -1,4 +1,4 @@
 # Balanced-tree-maximum-heap
-Balanced tree maximum mound using C++ with recursivity
+Balanced tree maximum heap using C++ with recursivity
 
 The complete project is in the .zip
