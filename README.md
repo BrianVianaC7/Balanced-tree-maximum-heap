@@ -1,4 +1,4 @@
 # Balanced-tree-maximum-heap
-Balanced tree maximum heap using C++ with recursivity
+	Built a maximum heap program of a balanced tree, using recursity for the heap, both to added new elements to the tree and eliminate elements of the tree.
 
 The complete project is in the .zip
